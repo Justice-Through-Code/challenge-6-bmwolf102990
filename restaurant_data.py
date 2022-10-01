@@ -70,6 +70,6 @@ def clean_print():
     for key, val in restaurant_1.items():
         print(f'{key}: {val}')
 
-explore_data()
-favorite_restaurant()
-clean_print()
+# explore_data()
+# favorite_restaurant()
+# clean_print()
